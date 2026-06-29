@@ -21,8 +21,8 @@ Follow these steps to compile and run the project from your terminal or command 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
-   ```
+   git clone https://github.com/jaybestsingh-cyber/mouse
+   ```Corser
 
 2. **Navigate into the project directory:**
    ```bash
@@ -31,13 +31,13 @@ Follow these steps to compile and run the project from your terminal or command 
 
 3. **Compile the Java source files:**
    ```bash
-   javac Main.java
+   javac CursorTrailFX.java
    ```
    *(Note: Replace `Main.java` with the actual name of your file containing the `main` method).*
 
 4. **Run the compiled program:**
    ```bash
-   java Main
+   java CursorTrailFX
    ```
 
 ## 💻 Code Example
