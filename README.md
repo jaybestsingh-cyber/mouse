@@ -22,7 +22,7 @@ Follow these steps to compile and run the project from your terminal or command 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/jaybestsingh-cyber/mouse
-   ```Corser
+   ```
 
 2. **Navigate into the project directory:**
    ```bash
@@ -33,7 +33,6 @@ Follow these steps to compile and run the project from your terminal or command 
    ```bash
    javac CursorTrailFX.java
    ```
-   *(Note: Replace `Main.java` with the actual name of your file containing the `main` method).*
 
 4. **Run the compiled program:**
    ```bash
@@ -51,6 +50,6 @@ public static void main(String[] args) {
 }
 ```
 
-## 📝 License
+
 
 This project is open source and available under the [MIT License](LICENSE).
