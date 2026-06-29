@@ -29,10 +29,7 @@ Follow these steps to compile and run the project from your terminal or command 
    cd your-repo-name
    ```
 
-3. **Compile the Java source files:**
-   ```bash
-   javac CursorTrailFX.java
-   ```
+3.don t compile class included
 
 4. **Run the compiled program:**
    ```bash
